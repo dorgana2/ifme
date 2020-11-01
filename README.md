@@ -9,7 +9,7 @@ README in: [Spanish](https://github.com/ifmeorg/ifme/blob/main/README-ES.md), [P
 
 # if-me.org
 
-Add new changes
+Added new changes
 
 [if-me.org](https://www.if-me.org/) is a community for mental health experiences
 that encourages people to share their personal stories with trusted allies.
